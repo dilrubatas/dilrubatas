@@ -1,2 +1,6 @@
-# dilrubatas.github.io
-##Hello!
+---
+---
+
+@import "{{ site.theme }}";
+theme: slate
+
