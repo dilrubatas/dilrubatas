@@ -1,2 +1,0 @@
-# dilrubatas.github.io
-##Hello!
